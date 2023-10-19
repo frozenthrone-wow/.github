@@ -1,6 +1,7 @@
 
 # GENERAL
 - All races all classes
+- No more trainers. Spells get learned on level up
 - Transmog system. NPC needs to be added all around the world, but for now he's in Stormwind near AH.
 
 # CHAT
