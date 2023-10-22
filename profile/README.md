@@ -13,19 +13,6 @@
 ### CLASS SPECIFIC
 - **DEATH KNIGHT**
     - Nathanos Blightcaller is taking increased damage, turning him into a solo-able encounter
-
+ 
 # GEARING
-- Basic starter gear command with `#starterGear classType weaponType`. Possible values:
-	- for classType:
-		- `empty`   (gives heirloom armors for current class) (`weaponType` empty)
-		-	`physical` (needs to be paired with `weaponType`)
-		-	`caster` (needs to be paired with `weaponType`)
-		-	`trinkets` (needs no `weaponType`)
-	- for weaponType:
-		-	`physical`
-		-	`caster`
-		-	`ranged `(works only for `physical`)
-Example (We're a lv1 Hunter):
-- `#starterGear` - gives hunter armor heirlooms
-- `#starterGear physical ranged` - gives ranged heirlooms
-- `#starterGear trinkets` - gives trinkets
+- Heirlooms on newly created characters (shoulders, chest, weapon and trinkets)
