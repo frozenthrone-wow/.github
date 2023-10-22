@@ -1,4 +1,3 @@
-
 # GENERAL
 - All races all classes
 - No more trainers. Spells get learned on level up
